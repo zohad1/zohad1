@@ -33,7 +33,7 @@ class Zohad:
     
     interests = ["AI/ML", "Backend Development", "FinTech", "Web Engineering"]
     
-    life_motto = "Build things that matter."
+    life-motto = "Build things that matter."
 ```
 
 ---
