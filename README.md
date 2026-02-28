@@ -210,8 +210,6 @@ class Zohad:
 - 🐚 Built **ZenoShell** — fully offline AI terminal with voice NLP (Whisper + Mistral + Coqui TTS, 100% local)
 - 📄 Built **ResumeAI** — full-stack NLP recruitment platform with spaCy NER & TF-IDF cosine similarity matching
 - 📈 Implementing **Isolation Forest** anomaly detection for real-world crypto market intelligence (NEXUS)
-- 📐 Experienced in **Formal Methods** — Z Specification, Hoare Logic, Abstract Machine Notation
-- ♿ HCI-focused — designing accessible interfaces for **Autism Spectrum Disorder**
 
 ---
 
