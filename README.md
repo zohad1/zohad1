@@ -27,7 +27,7 @@ class Zohad:
     semester    = "6th Semester — Software Engineering"
     
     currently_building = [
-        "NEXUS  — AI-powered Crypto Investment Intelligence Platform",
+        "NEXUS     — AI-powered Crypto Investment Intelligence Platform",
         "InspectPro — Field Inspection Management System",
     ]
     
@@ -46,6 +46,7 @@ class Zohad:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -53,22 +54,31 @@ class Zohad:
 **Frameworks & Libraries**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 **Databases & Cloud**
 
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**AI / ML**
+
+![Whisper](https://img.shields.io/badge/OpenAI%20Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 </div>
 
@@ -108,6 +118,34 @@ class Zohad:
 <tr>
 <td width="50%">
 
+### 🐚 ZenoShell
+> AI-Augmented Linux Terminal — Fully Offline
+
+- 🗣️ Natural language → Linux command via **Ollama/Mistral**
+- 🎤 Offline voice assistant using **Whisper** + **Coqui TTS**
+- 🤖 AI error diagnosis & plain-English command explanations
+- 🔒 **100% local inference** — no API keys, no cloud, GPU-accelerated (CUDA)
+
+`Python` `Whisper` `Ollama` `Mistral` `Coqui TTS` `PyTorch` `Fedora`
+
+</td>
+<td width="50%">
+
+### 📄 ResumeAI
+> Intelligent Full-Stack Recruitment Screening Platform
+
+- 🧠 **spaCy NER** parses PDF & DOCX resumes in ~1.2s
+- 🎯 **TF-IDF + Cosine Similarity** ranks candidates vs job descriptions
+- 🔐 JWT-secured **11 REST API** endpoints (FastAPI)
+- 🗄️ 5-table normalized **3NF SQLite** schema with SQLAlchemy ORM
+
+`Next.js` `FastAPI` `spaCy` `SQLite` `TF-IDF` `JWT` `ShadCN` `TypeScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 🧠 LearnAI
 > AI Tutoring Platform with Brutalist Design
 
@@ -121,15 +159,15 @@ class Zohad:
 </td>
 <td width="50%">
 
-### 🌐 Enterprise Network Design
-> Full Cisco Branch Network Architecture
+### 🎨 Web Engineering Lab
+> UI/UX & Typography Experiments
 
-- 🔒 Advanced security & **DMZ**
-- 🏷️ **VLAN** segmentation
-- 🛡️ Firewall configuration
-- 📡 Complete Packet Tracer implementation
+- 🔍 Website usability evaluation
+- 📐 Wireframe design & prototyping
+- 🔤 Typography showcase pages
+- ♿ Accessible interface design for **ASD users**
 
-`Cisco` `Networking` `Security`
+`HTML` `CSS` `UX Research` `Accessibility`
 
 </td>
 </tr>
@@ -141,8 +179,8 @@ class Zohad:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zohad1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohad1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zohad1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&cache_seconds=86400"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohad1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400"/>
 
 </div>
 
@@ -157,10 +195,10 @@ class Zohad:
 ## 🎯 Current Focus
 
 ```
-[ NEXUS Platform      ] ████████████░░░░  75% — Deploying AI modules
-[ InspectPro Backend  ] ██████████░░░░░░  60% — API development
-[ React & .NET Skills ] ████████░░░░░░░░  50% — Leveling up
-[ Cloud Architecture  ] ██████░░░░░░░░░░  40% — Exploring Appwrite & AWS
+[ NEXUS Platform       ] ████████████░░░░  75% — Deploying AI modules
+[ InspectPro Backend   ] ██████████░░░░░░  60% — API development
+[ React & .NET Skills  ] ████████░░░░░░░░  50% — Leveling up
+[ Cloud Architecture   ] ██████░░░░░░░░░░  40% — Exploring Appwrite & AWS
 ```
 
 ---
@@ -169,10 +207,11 @@ class Zohad:
 
 - 🎓 Software Engineering @ **Bahria University Islamabad** (6th Semester)
 - 🤖 Backend & AI Developer — building production-level intelligent systems
-- 🏗️ Implementing **Isolation Forest** algorithms for real-world anomaly detection
-- 🌐 Designing enterprise networks with **DMZ, VLANs, and advanced security**
-- 📐 Experienced in **Formal Methods** — Z Spec, Hoare Logic, AMN
-- 🖥️ HCI-focused — building accessible interfaces for **Autism Spectrum Disorder**
+- 🐚 Built **ZenoShell** — fully offline AI terminal with voice NLP (Whisper + Mistral + Coqui TTS, 100% local)
+- 📄 Built **ResumeAI** — full-stack NLP recruitment platform with spaCy NER & TF-IDF cosine similarity matching
+- 📈 Implementing **Isolation Forest** anomaly detection for real-world crypto market intelligence (NEXUS)
+- 📐 Experienced in **Formal Methods** — Z Specification, Hoare Logic, Abstract Machine Notation
+- ♿ HCI-focused — designing accessible interfaces for **Autism Spectrum Disorder**
 
 ---
 
