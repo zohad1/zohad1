@@ -33,7 +33,7 @@ class Zohad:
     
     interests = ["AI/ML", "Backend Development", "FinTech", "Web Engineering"]
     
-    LifeMotto = "Build things that matter."
+    life_motto = "Build things that matter."
 ```
 
 ---
@@ -159,15 +159,15 @@ class Zohad:
 </td>
 <td width="50%">
 
-### 🎨 Web Engineering Lab
-> UI/UX & Typography Experiments
+### 🎓 FYP Automation System
+> Policy-Enforced Academic Lifecycle Platform — Bahria University
 
-- 🔍 Website usability evaluation
-- 📐 Wireframe design & prototyping
-- 🔤 Typography showcase pages
-- ♿ Accessible interface design for **ASD users**
+- 🔐 **7 RBAC roles** (Student → HOD) with JWT auth & scoped dashboards
+- 📋 **13 functional modules** — proposals, logbooks, defenses, marks, audit trail
+- 🤖 Defense scheduler automates panel formation & notifications in **< 1 hour**
+- 🚫 Hard system gates enforce **24 mandatory log entries** — no manual override
 
-`HTML` `CSS` `UX Research` `Accessibility`
+`React` `REST API` `SQL Server` `JWT` `RBAC` `SMTP`
 
 </td>
 </tr>
@@ -179,12 +179,7 @@ class Zohad:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zohad1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&cache_seconds=86400"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohad1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400"/>
 
-</div>
-
-<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=zohad1&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
@@ -207,10 +202,10 @@ class Zohad:
 
 - 🎓 Software Engineering @ **Bahria University Islamabad** (6th Semester)
 - 🤖 Backend & AI Developer — building production-level intelligent systems
+- 🎓 Built **FYP Automation System** — 13-module enterprise platform replacing manual academic workflows for BU with full RBAC, automated scheduling, and policy-enforced stage gates
 - 🐚 Built **ZenoShell** — fully offline AI terminal with voice NLP (Whisper + Mistral + Coqui TTS, 100% local)
 - 📄 Built **ResumeAI** — full-stack NLP recruitment platform with spaCy NER & TF-IDF cosine similarity matching
 - 📈 Implementing **Isolation Forest** anomaly detection for real-world crypto market intelligence (NEXUS)
-
 ---
 
 <div align="center">
