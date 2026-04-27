@@ -176,7 +176,6 @@ class Zohad:
 
 > My GitHub commit history visualized as a 3D isometric city. Every day I code, a building grows.
 
-[![GitCity](https://gitcity.natrajx.in/api/city/zohad1?theme=noir)](https://gitcity.natrajx.in/zohad1/isometric)
 
 > 🏙️ **[Explore live → drive through it in simulation mode](https://gitcity.natrajx.in/zohad1/isometric)**
 
