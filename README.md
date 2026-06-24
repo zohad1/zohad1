@@ -2,7 +2,7 @@
 
 **Backend & AI engineer building production systems.**
 
-6th semester software engineering student at Bahria University, Islamabad. Building intelligent, offline-capable systems. Co-founder of [Novanex](https://github.com/zohad1) — an AI automation agency targeting US & EU markets.
+6th semester software engineering student at Bahria University, Islamabad. Building intelligent, offline-capable systems.
 
 ---
 
