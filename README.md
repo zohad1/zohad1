@@ -11,11 +11,11 @@
 | | |
 |---|---|
 | Location | Islamabad, Pakistan |
-| University | Bahria University — Software Engineering |
+| University | Bahria University - Software Engineering |
 | Company | Novanex AI Agency |
 | Email | zohadahmad0@gmail.com |
 | Focus | Backend systems · Applied AI/ML · AI automation |
-| Interests | FinTech · NLP · LLMs · Offline AI · DevOps |
+| Interests | FinTech · NLP · LLMs · Offline AI · DigitalTwins |
 
 ---
 
