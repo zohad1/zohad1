@@ -23,12 +23,12 @@
 
 | Name | Description | Stack | Status |
 |---|---|---|---|
-| **NEXUS** | AI crypto intelligence — anomaly detection + FinBERT sentiment | `FastAPI` `Redis` `PyTorch` | shipped |
-| **ZenoShell** | Offline AI terminal — voice NLP, 100% local inference via CUDA | `Whisper` `Ollama` `Mistral` | shipped |
-| **ResumeAI** | NLP recruitment platform — spaCy NER + TF-IDF cosine ranking | `FastAPI` `spaCy` `SQLite` | shipped |
+| **NEXUS** | AI crypto intelligence - anomaly detection + FinBERT sentiment | `FastAPI` `Redis` `PyTorch` | shipped |
+| **ZenoShell** | Offline AI terminal - voice NLP, 100% local inference via CUDA | `Whisper` `Ollama` `Mistral` | shipped |
+| **ResumeAI** | NLP recruitment platform - spaCy NER + TF-IDF cosine ranking | `FastAPI` `spaCy` `SQLite` | shipped |
 | **InspectPro** | Field inspection workflow system, enterprise-grade architecture | `.NET` `SignalR` `React` | shipped |
 | **LearnAI** | AI tutoring platform with brutalist UI and Gemini integration | `React` `FastAPI` `Gemini` | shipped |
-| **FYP System** | 13-module academic platform — 7 RBAC roles, auto panel scheduling | `.NET` `SQL Server` `JWT` | shipped |
+| **FYP System** | 13-module academic platform - 7 RBAC roles, auto panel scheduling | `.NET` `SQL Server` `JWT` | shipped |
 
 ---
 
