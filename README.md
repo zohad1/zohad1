@@ -12,7 +12,7 @@
 |---|---|
 | Location | Islamabad, Pakistan |
 | University | Bahria University — Software Engineering |
-| Company | Co-Founder, Novanex AI Agency |
+| Company | Novanex AI Agency |
 | Email | zohadahmad0@gmail.com |
 | Focus | Backend systems · Applied AI/ML · AI automation |
 | Interests | FinTech · NLP · LLMs · Offline AI · DevOps |
