@@ -2,7 +2,7 @@
 
 **Backend & AI engineer building production systems.**
 
-6th semester software engineering student at Bahria University, Islamabad. Building intelligent, offline-capable systems.
+Software Engineering student at Bahria University, Islamabad. Building intelligent, offline-capable systems.
 
 ---
 
